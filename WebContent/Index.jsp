@@ -19,9 +19,6 @@ pageEncoding="ISO-8859-1"%>
 					<td>
 						<input type="password" name="password" />
 					</td>
-					<td>
-						<input type="submit" value="login" />
-					</td>
 				</tr>
 			</table>
 		</form>
